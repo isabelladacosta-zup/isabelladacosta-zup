@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Isabella!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b3a,50:4c1d95,100:7c3aed&height=200&section=header&text=Isabella%20Tessarin&fontColor=e9d5ff&fontSize=48&animation=fadeIn&desc=data%20%C2%B7%20artificial%20intelligence%20%C2%B7%20backend&descAlignY=68&descSize=18&fontAlignY=42"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+building%2C+always+evolving;Code.+Learn.+Build.+Repeat.;Hey%2C+I'm+Isabella!+%F0%9F%91%8B"/>
+</p>
 
 ```text
 💜 Tech enthusiast
@@ -37,47 +43,13 @@ I enjoy transforming ideas into projects, learning new technologies and constant
 ### 💻 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,sql"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,js,spring"/>
 </p>
 
 ### ⚙️ Tools & Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,nodejs,mysql,linux"/>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"
-/>
-
 </p>
 
 ---
@@ -86,7 +58,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USUARIO&theme=tok
 
 ```python
 class Isabella:
-
     def __init__(self):
         self.name = "Isabella Tessarin"
         self.education = "Computer Engineering"
@@ -143,13 +114,10 @@ Projects focused on:
 ## 🏆 Achievements & Certifications
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Claude-4x%20Certified-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-Partner%20Badge-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-8B5CF6?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -157,27 +125,20 @@ Projects focused on:
 ## 🌐 Let's Connect!
 
 <p align="center">
-
-<a href="SEU-LINKEDIN-AQUI">
+<a href="https://linkedin.com/in/isatessarin">
 <img src="https://img.shields.io/badge/LinkedIn-Isabella%20Tessarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:isabella.dacosta@zup.com.br">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-
 💜 <b>Thanks for visiting my profile!</b> 💜
-
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=7C3AED&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=isabelladacosta-zup&label=Profile%20views&color=7C3AED&style=flat"/>
 </p>
 
 <p align="center">
