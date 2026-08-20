@@ -11,10 +11,10 @@
 ### > PLAYER_INFO
 
 ```
-NOME     : Isabella da Costa
-CLASSE   : Back-End Developer
+NOME     : Isabella Tessarin
+CLASSE   : Analytics junior
 GUILDA   : Zup Innovation
-ARMA     : Java + Spring Boot
+ARMA     : Back-end & IA 
 MISSÃO   : construir back-ends sólidos e explorar IA
 ```
 
