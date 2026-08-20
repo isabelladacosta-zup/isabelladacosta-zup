@@ -1,76 +1,185 @@
-<div align="center">
+# 👋 Hey, I'm Isabella!
 
-<img src="assets/espada.svg" width="44" />
-<img src="assets/escudo.svg" width="44" />
-<img src="assets/gema.svg" width="44" />
+```text
+💜 Tech enthusiast
+🤖 Exploring Artificial Intelligence
+📊 Building my path in Data
+☕ Java & Backend lover
+🐍 Python enthusiast
+☁️ Cloud & AWS explorer
+```
 
-# Isabella da Costa
+## 🚀 About Me
 
-**back-end developer** · java · spring boot · zup innovation
+I'm **Isabella Tessarin**, a Computer Engineering student passionate about technology, innovation and solving problems through code.
 
-</div>
+Currently, I'm building my journey in the world of **Data, Artificial Intelligence and Backend Development**.
+
+I enjoy transforming ideas into projects, learning new technologies and constantly challenging myself to go beyond what I already know.
+
+> *"Always learning, always building, always evolving."* 🚀
 
 ---
 
-## <img src="assets/pergaminho.svg" width="26" /> Sobre
+## 🧠 What I'm Exploring
 
+* 🤖 Artificial Intelligence
+* 📊 Data & Analytics
+* ☕ Backend Development
+* 🐍 Python
+* ☁️ Cloud Computing
+* 🧩 Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,sql"/>
+
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,nodejs,mysql,linux"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🤖 Currently Learning
+
+```python
+class Isabella:
+
+    def __init__(self):
+        self.name = "Isabella Tessarin"
+        self.education = "Computer Engineering"
+        self.interests = [
+            "Artificial Intelligence",
+            "Data",
+            "Backend Development"
+        ]
+
+    def current_mission(self):
+        return "Learning, building and creating 🚀"
 ```
-Nome      : Isabella da Costa
-Cargo     : Back-End Developer @ Zup Innovation
-Stack     : Java · Spring Boot · JPA/Hibernate · SQL
-Estudando : Inteligência Artificial e automação
-Lema      : código limpo é carinho pelo próximo dev
-```
 
-## <img src="assets/bau.svg" width="26" /> Inventário
+---
 
-<div align="center">
+## 🌟 Featured Projects
 
-![Java](https://img.shields.io/badge/Java-1b3a2f?style=flat-square&logo=openjdk&logoColor=e8d9a0)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1b3a2f?style=flat-square&logo=springboot&logoColor=e8d9a0)
-![Hibernate](https://img.shields.io/badge/JPA_Hibernate-1b3a2f?style=flat-square&logo=hibernate&logoColor=e8d9a0)
-![MySQL](https://img.shields.io/badge/MySQL-1b3a2f?style=flat-square&logo=mysql&logoColor=e8d9a0)
-![Git](https://img.shields.io/badge/Git-1b3a2f?style=flat-square&logo=git&logoColor=e8d9a0)
-![VS Code](https://img.shields.io/badge/VS_Code-1b3a2f?style=flat-square&logo=visualstudiocode&logoColor=e8d9a0)
+### 🤖 Zupinho
 
-</div>
+> An Stackspot agent for Zup Innovation
 
-## <img src="assets/gema.svg" width="26" /> Conquistas
+🔗 **Coming soon...**
 
-<div align="center">
+---
 
-![Claude](https://img.shields.io/badge/Claude-4x_certificações-c9a13a?style=flat-square&logo=anthropic&logoColor=1b3a2f)
-![Claude Partner](https://img.shields.io/badge/Claude-partner_badge-c9a13a?style=flat-square&logo=anthropic&logoColor=1b3a2f)
-![AWS](https://img.shields.io/badge/AWS_SimuLearn-ai_practitioner-c9a13a?style=flat-square&logo=amazonwebservices&logoColor=1b3a2f)
-![IBM](https://img.shields.io/badge/IBM-certificações_em_IA-c9a13a?style=flat-square&logo=ibm&logoColor=1b3a2f)
+### 📊 Data Projects
 
-</div>
+Projects involving:
 
-## <img src="assets/coracao.svg" width="26" /> Status
+* Data analysis
+* Python
+* SQL
+* Machine Learning
+* Artificial Intelligence
 
-<div align="center">
+🚧 *Building something cool...*
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabelladacosta-zup&theme=forest" />
+---
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabelladacosta-zup&theme=forest" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabelladacosta-zup&theme=forest" />
+### ☕ Backend Projects
 
-</div>
+Projects focused on:
 
-## <img src="assets/pocao.svg" width="26" /> Quests ativas
+* Java
+* APIs
+* Backend architecture
+* Databases
+* Problem solving
 
-```
-[ ] Dominar arquitetura de microsserviços
-[ ] Aprofundar em IA aplicada ao back-end
-[ ] Construir projetos que resolvam problemas reais
-[x] Nunca parar de aprender
-```
+🚧 *More coming soon...*
 
-## <img src="assets/carta.svg" width="26" /> Contato
+---
 
-<div align="center">
+## 🏆 Achievements & Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isinha-2d5a44?style=flat-square&logo=linkedin&logoColor=e8d9a0)](https://linkedin.com/in/isatessarin)
-[![Email](https://img.shields.io/badge/Email-2d5a44?style=flat-square&logo=gmail&logoColor=e8d9a0)](mailto:isabella.dacosta@zup.com.br)
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-Partner%20Badge-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-8B5CF6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+
+<a href="SEU-LINKEDIN-AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-Isabella%20Tessarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU-EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💜 <b>Thanks for visiting my profile!</b> 💜
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=7C3AED&style=flat"/>
+
+</p>
+
+<p align="center">
+  <i>✨ Code. Learn. Build. Repeat. ✨</i>
+</p>
