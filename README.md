@@ -50,8 +50,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isabelladacosta-zup&show_icons=true&hide_border=true&bg_color=fff5fa&title_color=e0508f&icon_color=ff9ec7&text_color=8b3a62" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelladacosta-zup&layout=compact&hide_border=true&bg_color=fff5fa&title_color=e0508f&text_color=8b3a62" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabelladacosta-zup&theme=nord_bright" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabelladacosta-zup&theme=nord_bright" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabelladacosta-zup&theme=nord_bright" />
 
 </div>
 
